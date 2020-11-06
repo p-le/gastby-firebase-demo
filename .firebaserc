@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "default": "k8s-cluster-phule"
+  }
+}
